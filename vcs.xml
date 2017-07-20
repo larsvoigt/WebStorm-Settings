@@ -75,6 +75,10 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/GermanCentralLibraryForTheBlind/readium-js-viewer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://github.com/daisy/ace-core.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
