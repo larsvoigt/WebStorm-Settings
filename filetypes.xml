@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="constants" type="JavaScript" />
       <mapping pattern="logger" type="JavaScript" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
