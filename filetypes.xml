@@ -1,7 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="report-modeler" type="JavaScript" />
+      <mapping pattern="constants" type="JavaScript" />
       <mapping pattern="logger" type="JavaScript" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
