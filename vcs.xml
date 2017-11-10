@@ -87,6 +87,10 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/GermanCentralLibraryForTheBlind/bacc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://github.com/larsvoigt/ace-core.git" />
           <option name="userName" value="" />
         </UrlAndUserName>

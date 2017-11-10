@@ -3,4 +3,5 @@
     <option name="FONT_SIZE" value="15" />
     <option name="FONT_SCALE" value="1.25" />
   </component>
+  <component name="LiveEditOptions" updatePolicy="AUTO" />
 </application>
