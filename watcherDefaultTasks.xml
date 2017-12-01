@@ -14,13 +14,14 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$USER_HOME$/workspace/bacc/server/report/only-dev.js" />
+      <option name="arguments" value="$USER_HOME$/workspace/bacc/backend/report/only-dev.js" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ALWAYS" />
@@ -31,8 +32,9 @@
       <option name="outputFilters">
         <array />
       </option>
-      <option name="outputFromStdout" value="false" />
+      <option name="outputFromStdout" value="true" />
       <option name="program" value="/usr/bin/node" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="report" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
@@ -52,6 +54,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/node" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
