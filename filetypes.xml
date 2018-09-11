@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="schema-accessibilityFeature" type="JSON" />
       <mapping pattern="logger" type="JavaScript" />
+      <mapping pattern="mergeLocalesFiles" type="JavaScript" />
       <mapping pattern="getAllRules" type="JavaScript" />
       <mapping pattern="constants" type="JavaScript" />
       <mapping pattern="Localize" type="JavaScript" />
