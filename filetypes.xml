@@ -2,15 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="schema-accessibilityFeature" type="JSON" />
-      <mapping pattern="logger" type="JavaScript" />
       <mapping pattern="mergeLocalesFiles" type="JavaScript" />
+      <mapping pattern="Localize" type="JavaScript" />
+      <mapping pattern="logger" type="JavaScript" />
       <mapping pattern="getAllRules" type="JavaScript" />
       <mapping pattern="constants" type="JavaScript" />
-      <mapping pattern="Localize" type="JavaScript" />
       <mapping pattern="report-modeler" type="JavaScript" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="poor-semantic.json" type="PLAIN_TEXT" />
       <mapping pattern="routes" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="tzest" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="hintOfficialVersion" type="TypeScript" />
     </extensionMap>
